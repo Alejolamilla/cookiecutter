@@ -1,0 +1,6 @@
+name: cookiecutter
+channels:
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: /home/alphalejo/anaconda3/envs/cookiecutter
